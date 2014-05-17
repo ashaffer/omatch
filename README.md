@@ -1,6 +1,7 @@
 omatch
 ======
 
+Simple utility for creating object pattern matching functions.  Supports nested objects.  Inspired by lodash/underscore's similar object matchers.
 
 ## Example
 
