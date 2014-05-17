@@ -1,0 +1,35 @@
+{
+  "name": "omatch",
+  "version": "0.1.0",
+  "description": "omatch is a simple component that takes an object and a function that matches that object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git@github.com/ashaffer/omatch.git"
+  },
+  "keywords": [
+    "object",
+    "match",
+    "object",
+    "filter",
+    "filter",
+    "object",
+    "utility"
+  ],
+  "author": "ashaffer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashaffer/omatch/issues"
+  },
+  "homepage": "https://github.com/ashaffer/omatch",
+  "dependencies": {
+    "is-object": "^0.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "chai": "^1.9.1"
+  }
+}
